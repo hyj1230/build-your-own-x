@@ -2,18 +2,18 @@
 
 ## Build your own &lt;insert-technology-here&gt;
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+本仓库是精心编写的分步指南合集，用于从零开始重建我们喜爱的技术。 
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
 It's a great way to learn.
 
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
-* [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
-* [Bot](#build-your-own-bot)
-* [Command-Line Tool](#build-your-own-command-line-tool)
+* [3D 渲染器](#build-your-own-3d-renderer)
+* [增强现实 AR](#build-your-own-augmented-reality)
+* [BitTorrent 客户端](#build-your-own-bittorrent-client)
+* [区块链/加密货币](#build-your-own-blockchain--cryptocurrency)
+* [机器人](#build-your-own-bot)
+* [命令行工具](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
